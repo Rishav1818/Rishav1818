@@ -50,9 +50,11 @@
 
 ## Connect with me:
 
-[<img align="left" alt="Instagram" width="36px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png" />][instagram]
-
 [<img align="left" alt="LinkedIn" width="36px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
 
-[instagram]: https://www.instagram.com/rishavsingh599/?hl=en
+[<img align="left" alt="Instagram" width="36px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png" />][instagram]
+
+
 [linkedin]: https://www.linkedin.com/in/rishav-kumar-91bb991b6/
+[instagram]: https://www.instagram.com/rishavsingh599/?hl=en
+
